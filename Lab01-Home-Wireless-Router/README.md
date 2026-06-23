@@ -40,3 +40,11 @@ Below is the spatial and structural layout of the residential network:
 ## Verification & Results
 * **IP Addressing:** All end-devices successfully requested and received valid IPv4 configurations from the local pool.
 * **Connectivity Tests:** End-to-end connectivity verified across the local wireless LAN and out towards the simulated web server infrastructure.
+
+---
+## Tools & Skills
+- **Tool:** Cisco Packet Tracer 9.0.0.0810
+- **Course:** Cisco Networking Basics — Cisco Networking Academy
+- **Score:** 19/19 (100%)
+- **Skills practiced:** Home network design, DHCP configuration, 
+  WPA2 wireless security, physical cabling, coaxial infrastructure
