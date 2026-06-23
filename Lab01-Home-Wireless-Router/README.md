@@ -1,6 +1,6 @@
-# Home Wireless Router & Client Configuration 🏠🌐
+# Home Wireless Router & Client Configuration 
 
-## 📝 Overview
+## Overview
 This laboratory focuses on the deployment, configuration, and secure setup of a home wireless network. It simulates a residential environment spanning multiple rooms (Office, Bedroom, and Living Room) connected through a Cable Modem and a Coaxial Splitter to an external ISP cloud.
 
 The objective was to establish correct physical cabling, configure the Home Wireless Router (DHCP pools, SSID, and WPA2 security metrics), and ensure automatic network parameter assignment for both wired and wireless clients.
@@ -9,14 +9,14 @@ The objective was to establish correct physical cabling, configure the Home Wire
 
 ---
 
-## 🖼️ Network Topology (Physical View)
+## Network Topology (Physical View)
 Below is the spatial and structural layout of the residential network:
 
 ![Home Network Topology](home_topology.png)
 
 ---
 
-## 🛠️ Configuration Details & Technical Specs
+## Configuration Details & Technical Specs
 
 ### 1. Home Wireless Router Setup
 * **Internet Interface:** Connected via a Straight-Through copper cable to the Cable Modem (Internet Port).
@@ -37,6 +37,6 @@ Below is the spatial and structural layout of the residential network:
 
 ---
 
-## 📊 Verification & Results
+## Verification & Results
 * **IP Addressing:** All end-devices successfully requested and received valid IPv4 configurations from the local pool.
 * **Connectivity Tests:** End-to-end connectivity verified across the local wireless LAN and out towards the simulated web server infrastructure.
