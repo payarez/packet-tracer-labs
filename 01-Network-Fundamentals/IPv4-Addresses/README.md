@@ -1,4 +1,4 @@
-# Day 08: IPv4 Addressing & Interface Configuration
+# IPv4 Addressing & Interface Configuration
 
 ## 🎯 Overview
 
