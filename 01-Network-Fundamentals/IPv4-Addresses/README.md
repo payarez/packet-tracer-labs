@@ -1,10 +1,11 @@
-# Day 08: IPv4 Addressing & Interface Configuration
+# IPv4 Addressing & Interface Configuration
 
 ## 🎯 Overview
 
 This lab covers fundamental IPv4 addressing, subnetting concepts across Class A, Class B, and Class C networks, interface description best practices, and gateway configurations to establish cross-network communication using a Cisco router.
 
 ## 📐 Network Topology
+![Topology Diagram](./topology.png)
 
 ### Subnet Details
 
